@@ -1,12 +1,11 @@
-# 👋 Merhaba, ben Nida
+# 👋 Hi, I'm Nida
 
-💻 Yeni mezun yazılım mühendisiyim.  
-🚀 Şu anda **Django** öğreniyorum ve web geliştirme üzerine yoğunlaşıyorum.  
-🌱 Hedefim: Açık kaynak projelere katkı sağlamak ve kendimi sürekli geliştirmek.  
-
+💻 Junior Software Engineer | Learning Django & Web Development  
+🚀 Currently focused on building web applications and improving coding skills  
+🌱 Passionate about open-source contributions and continuous learning  
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Technologies & Tools
 - Python | Django | Flask | JavaScript | HTML | CSS  
 - Git & GitHub | VS Code  
 
